@@ -55,6 +55,8 @@ HomeSeer will be reinstalled anytime the container is deleted and re-created; wh
 
 This image currently only runs on amd64/x86_64.
 
+If running this for the first time without importing a backup the U/N & P/W are both default.  Also you will need to redirect to the regristation page by adding /regristration to the ned after logging in.
+
 ### Issues / Contributing
 
 Please raise any issues with this container, including any missing plugin dependencies, at its GitHub repo: https://github.com/e1ite/docker-homeseer4. Please check the "Gotchas / Known Issues" section above before raising an Issue on GitHub in case the issue is already known.
