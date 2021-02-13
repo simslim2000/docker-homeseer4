@@ -55,7 +55,7 @@ HomeSeer will be reinstalled anytime the container is deleted and re-created; wh
 
 This image currently only runs on amd64/x86_64.
 
-If running this for the first time without importing a backup the U/N & P/W are both default.  Also you will need to redirect to the regristation page by adding /regristration to the ned after logging in.
+If running this for the first time without importing a backup the U/N & P/W are both default.  Also you will need to redirect to the regristation page by adding /regristration to the end of the url after logging in to be redirected to the regristration page.
 
 ### Issues / Contributing
 
